@@ -51,7 +51,7 @@ code {
 textarea {
 	border: none;
 	resize: none;
-	background-color: #67d7cc;
+	background-color: red;
 }
 
 textarea:focus {
